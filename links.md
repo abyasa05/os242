@@ -8,3 +8,5 @@ permalink: LINKS/
 + [Nano Editor Fundamentals](https://youtu.be/gyKiDczLIZ4?si=MdL9a_pT-biXJXTc) - A tutorial on how to use the Nano text editor, another alternative to Vim.
 + [C in 100 Seconds](https://youtu.be/U3aXWizDbQ4?si=CawZ-j7eQ5h9zyEo) - A basic overview about the C language.
 + [Makefile Tutorial By Example](https://makefiletutorial.com/) - A tutorial on how to create a Makefile that's used to compile C files.
++ [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/) - A basic guide on using the scp command.
++ [tar Command in Linux With Examples](https://phoenixnap.com/kb/tar-command-in-linux) - A basic guide on using the tar command.
