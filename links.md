@@ -10,3 +10,5 @@ permalink: LINKS/
 + [Makefile Tutorial By Example](https://makefiletutorial.com/) - A tutorial on how to create a Makefile that's used to compile C files.
 + [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/) - A basic guide on using the scp command.
 + [tar Command in Linux With Examples](https://phoenixnap.com/kb/tar-command-in-linux) - A basic guide on using the tar command.
++ [Sed Command in Unix/Linux with examples](https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/) - A guide on how to use the sed command to modify text in files.
++ [Physical and Logical Address Space](https://www.javatpoint.com/os-physical-and-logical-address-space) - An article about the use and management of physical and logical address space.
