@@ -13,3 +13,4 @@ permalink: LINKS/
 + [Sed Command in Unix/Linux with examples](https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/) - A guide on how to use the sed command to modify text in files.
 + [Physical and Logical Address Space](https://www.javatpoint.com/os-physical-and-logical-address-space) - An article about the use and management of physical and logical address space.
 + [Multithreading in Operating System](https://www.geeksforgeeks.org/multithreading-in-operating-system/) - An explanation about the concept of multithreading.
++ [How to use POSIX semaphores in C language](https://www.geeksforgeeks.org/use-posix-semaphores-c/) - A tutorial about the use of semaphore in C for process synchronization and multithreading.
