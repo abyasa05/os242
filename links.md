@@ -14,3 +14,4 @@ permalink: LINKS/
 + [Physical and Logical Address Space](https://www.javatpoint.com/os-physical-and-logical-address-space) - An article about the use and management of physical and logical address space.
 + [Multithreading in Operating System](https://www.geeksforgeeks.org/multithreading-in-operating-system/) - An explanation about the concept of multithreading.
 + [How to use POSIX semaphores in C language](https://www.geeksforgeeks.org/use-posix-semaphores-c/) - A tutorial about the use of semaphore in C for process synchronization and multithreading.
++ [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) - An explanation about the function and types of CPU scheduling.
